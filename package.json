@@ -1,0 +1,9 @@
+{
+    "name": "qicugelom",
+    "version": "51.88.416",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "puppeteer-core": "^23.0.0"
+    }
+}
